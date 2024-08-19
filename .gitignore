@@ -6,3 +6,4 @@ Thumbs.db
 /.vscode
 .env
 .phpunit.result.cache
+/core
