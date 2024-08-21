@@ -64,4 +64,4 @@ For guidelines on how to contribute to the framework, please refer to the [CONTR
 
 ## License and Copyright
 
-The Oze Framework is licensed under the MIT license, which can be found in the [LICENSE.md](LICENSE.md) file. The MIT license allows users to freely use, modify, and distribute the framework, both for personal and commercial purposes. It also provides a disclaimer of warranty and limitation of liability. By using the framework, users agree to comply with the terms and conditions stated in the MIT license.
+The Oze Framework is licensed under the MIT license, which can be found in the [LICENSE](LICENSE) file. The MIT license allows users to freely use, modify, and distribute the framework, both for personal and commercial purposes. It also provides a disclaimer of warranty and limitation of liability. By using the framework, users agree to comply with the terms and conditions stated in the MIT license.
